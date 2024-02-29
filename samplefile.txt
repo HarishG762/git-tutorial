@@ -1,3 +1,1 @@
 this is the sample file for testing git commands using visual studio and terminal.
-Adding the line 2 to practice the commmiting of messages.
-Adding line 3 to practice from terminal. Evnethough it is easy to add and commit files through visual studio but better to learn the commands to use in git line which can be useful for executing in terminal.   
