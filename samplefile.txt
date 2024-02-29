@@ -1,1 +1,2 @@
 this is the sample file for testing git commands using visual studio and terminal.
+Adding the line 2 to practice the commmiting of messages. 

@@ -1,1 +1,2 @@
-This file is created to test the VisualStudio to access GIT
+This file is created to test the VisualStudio to access GIT.
+Adding line 2 to practice the versioning the file for Git history.
